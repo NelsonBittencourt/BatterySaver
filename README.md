@@ -6,13 +6,18 @@ Simple application to avoid overcharging your cell phone battery. This is my fir
 
 Open app, select maximum charge level (60% - 95%, recommended and default is 80%) and press "Start".
 
-<img src="images/battery_saver_level_selection.png" width="400" align="center">
+<p align="center">
+<img src="images/battery_saver_level_selection.png" width="400" >
+</p>
 
-After that, you can close app. One notification will appear after a few seconds indicating that Battery Saver is active.
+After that, you can close app. One notification will appear after a few seconds, indicating that Battery Saver is active.
 
-<img src="images/battery_saver_running_service.png" width="400" align="center">
+<p align="center">
+<img src="images/battery_saver_running_service.png" width="400" >
+</p>
 
-When the battery level is equal to or higher than the selected level, Battery Saver will sound your cell phone's alarm sound. To deactivate the alarm, simply open the application by clicking on its default icon or on the notification at the top of the screen.
+
+When the battery level is equal or higher than selected level, Battery Saver will trigger your cell phone's alarm sound. To deactivate alarm, simply open application (clicking on its default icon or in notification at the top of the screen) and press "Stop".
 
 # Current Limitations
 
