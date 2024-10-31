@@ -21,9 +21,8 @@ When the battery level is equal or higher than selected level, Battery Saver wil
 
 # Current Limitations
 
-1) Portuguese only;
-2) Android Arm64 only and
-3) Source code not available yet.
+1) Android Arm64 only and
+2) Source code not available yet.
 
 
 # Personal site:
